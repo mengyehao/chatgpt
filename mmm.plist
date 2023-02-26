@@ -10,7 +10,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/mengyehao/chatgpt/blob/row/main/dddddd.ipa</string> 
+                    <string>https://github.com/mengyehao/chatgpt/blob/main/dddddd.ipa</string> 
                 </dict>
             </array>
             <key>metadata</key>
@@ -18,11 +18,11 @@
                 <key>bundle-identifier</key>
                 <string>com.szyzkj.chatgpt</string>
                 <key>bundle-version</key>
-                <string>1.1.0</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>wowwwww</string>
+                <string>dddddd</string>
             </dict>
         </dict>
     </array>
